@@ -1,0 +1,46 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    width: 600px;
+    background-image: url("freecodecamp.jpeg.jpg");
+    color: azure;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+    text-align: center;
+}
+.form{
+    background-color: rgb(141, 141, 163);
+}
+.main{
+
+}
+#submit{
+    text-align: center;
+    width: 90%;
+    background-color: rgb(25, 148, 62);
+}
+
+.div1{
+    text-align: center;
+  }
+
+  .div-input{
+    
+  }
+
+li{
+    display: inline-block;
+    width: 100%;
+}
+
+#your-name {
+    width: 90%;
+}
+
+.select-bar {
+    width: 90%;
+}
